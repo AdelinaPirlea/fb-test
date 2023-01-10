@@ -1,0 +1,40 @@
+body{
+    background: url(img/dog4.jpg)
+}
+#logo{
+    margin-left: 35px;
+}
+.tit{
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    background-color: azure;
+    width: 350px;
+    height: 50px;
+    margin-left: 500px;
+}
+.card{
+    margin-top: 20px;
+}
+.card1{
+    margin-left: 700px;
+    background-color: white;
+    margin-top: -650px;
+  
+}
+.card2{
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 230px;
+}
+.card3{
+    margin-left: 820px;
+    background-color: white;
+    margin-top: -650px;
+  
+}
+.card4{
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 230px;
+}

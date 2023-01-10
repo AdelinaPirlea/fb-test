@@ -1,0 +1,86 @@
+body{
+   background: black;
+}
+#logo{
+    margin-left: 35px;
+}
+.motto{
+    font-size:35px;
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+    margin-left:45px;
+    text-align: center;
+}
+.imaginea1{
+    margin-left: 45px;
+    margin-top: 80px;
+}
+.imaginea2{
+    margin-left: 850px;
+    margin-top: -230px;
+}
+.box{
+    width: 1355px;
+    height: 300px;
+    background: violet;
+    margin-top: 200px;
+    margin-left: -136px;
+}
+
+  .instagram{
+    font-weight: bold;
+        margin-left: 135px;
+    font-size: 20px;
+    margin-top: -280px;
+
+  }
+  .instagram1{
+    width: 40px;
+    width: 40px;
+    margin-left: 85px;
+    margin-top: -35px;
+  }
+ 
+  .phone{
+    width: 40px;
+    width: 40px;
+    margin-left: 85px;
+    margin-top: 25px;
+  }
+  .phonenumber{
+    font-weight: bold;
+    margin-left: 135px;
+    margin-top: -35px;
+    font-size: 20px;
+  }
+  .mail{
+    width: 40px;
+    width: 40px;
+    margin-left: 85px;
+    margin-top: 35px;
+  }
+  .mail1{
+    font-weight: bold;
+    margin-left:135px;
+    margin-top: -40px;
+    font-size: 20px;
+  }
+  .telegram{
+    width: 40px;
+    width: 40px;
+    margin-left: 85px;
+    margin-top: 35px;
+  }
+  .telegram1{
+    font-weight: bold;
+    margin-left: 135px;
+    margin-top: -40px;
+    font-size: 20px;
+  }
+  .carousel-inner{
+    margin-top: 65px;
+  }
+  .container{
+    margin-top: -175px;
+   
+  }

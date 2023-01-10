@@ -1,0 +1,18 @@
+body{
+    background: url(img/ff.jpg);
+}
+#logo{
+    margin-left: 35px;
+}
+.ccc{
+    font-size:35px;
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+
+    text-align: center;
+    margin-top: -10px;
+}
+.media-body{
+    font-weight: bold;
+    font-size: 20px;
+}
